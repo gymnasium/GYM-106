@@ -1,35 +1,39 @@
-[![Gymnasium Logo](https://cdn.rawgit.com/gymnasium/gymnasium.github.io/master/assets/GYM-logo.svg)](http://thegymnasium.com)
+[![Gymnasium Logo](https://gymnasium.github.io/cms/img/gymnasium-logo-gray.svg)](http://thegymnasium.com)
 
-# INFORMATION DESIGN AND VISUALIZATION FUNDAMENTALS
+# INFORMATION DESIGN & VISUALIZATION FUNDAMENTALS
 
 **A free online course at the [Gymnasium](http://thegymnasium.com)**
 
 Learn the design and visual principles needed to create effective information graphics and data visualizations.
 
-**SKILLS COVERED**
+**Taught by Graham Roberts of The New York Times**
+
+### SKILLS COVERED
 
 - Visual design principles
 - Interactive design principles
 - Mapping and charting tools
-- And more…
+- And more...
 
-**THIS COURSE IS FOR**
+### THIS COURSE IS FOR
 
 - Designers
 - Creatives
 - Data scientists
 
-### [ENROLL NOW!](http://thegymnasium.com/courses/GYM/106/0/about)
+### [ENROLL NOW!](https://thegymnasium.com/courses/GYM/106/0/about)
+
+
+### Preview
+[![Poster frame for course preview video](http://img.youtube.com/vi/2Sp5B7HEOqk/0.jpg)](http://www.youtube.com/watch?v=2Sp5B7HEOqk "Course Preview")
 
 ---
 
 ## About Gymnasium
 
-
 ### Real World Skills
 
 Gymnasium offers free online courses designed to teach creative professionals in-demand skills. We know these skills are in demand because our clients tell us what they are looking for, but can't find.
-
 
 ### Expert Instruction
 
